@@ -1,0 +1,12 @@
+# Ignore Node.js stuff
+node_modules/
+.env
+
+# Ignore frontend build
+frontend/build/
+
+# Logs
+*.log
+
+# OS/Editor files
+.DS_Store
